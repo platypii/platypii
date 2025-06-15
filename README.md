@@ -1,11 +1,13 @@
 # Kenny Daniel (platypii)
 
-Hi I'm Kenny. Check out some of my open source projects:
+Hi I'm Kenny. I like JavaScript, Wingsuit Flying, and AI. Check out some of my open source projects:
 
-- [HyParquet](https://github.com/hyparam/hyparquet) 
+- [Hyparquet](https://github.com/hyparam/hyparquet)
   A Parquet file parser for JavaScript, enabling efficient data processing in the browser.
 - [HighTable](https://github.com/hyparam/hightable)
   A dynamic windowed scrolling table component for React, designed to handle large datasets seamlessly.
+- [Icebird](https://github.com/hyparam/icebird)
+  Implementation of Apache Iceberg in Javascript.
 - [HyLlama](https://github.com/hyparam/hyllama)
   A JavaScript parser for llama.cpp GGUF files, for parsing machine learning model metadata efficiently over the web.
 - [BASEline](https://github.com/platypii/BASElineFlightComputer)
