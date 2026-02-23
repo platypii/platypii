@@ -2,10 +2,14 @@
 
 Hi I'm Kenny. I like JavaScript, Wingsuit Flying, and AI. Check out some of my open source projects:
 
+- [Hyperparam CLI](https://github.com/hyparam/hyperparam-cli)
+  Local parquet viewer for machine learning datasets.
 - [Hyparquet](https://github.com/hyparam/hyparquet)
   A Parquet file parser for JavaScript, enabling efficient data processing in the browser.
 - [HighTable](https://github.com/hyparam/hightable)
   A dynamic windowed scrolling table component for React, designed to handle large datasets seamlessly.
+- [Squirreling](https://github.com/hyparam/squirreling)
+  Async SQL Engine for querying large datasets in the browser.
 - [Icebird](https://github.com/hyparam/icebird)
   Implementation of Apache Iceberg in Javascript.
 - [HyLlama](https://github.com/hyparam/hyllama)
